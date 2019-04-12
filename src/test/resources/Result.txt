@@ -1,0 +1,80 @@
+Question 1:
+	Toyota Car runs: 
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	BMW Car runs: 
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+
+
+Question 2:
+	Output 1:
+	Max Speed: 200
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 200
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+
+	Output 2:
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 100
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	Max Speed: 200
+	
+Question 3:
+- Because threads run parallely in Java. 
+- To make sure the order of 2 is same with 1, we have to use "Thread join" command for each Thread to stop others. Other threads run when this thread finishes
+
+
+Question 4:
+
+
+
+

@@ -74,6 +74,11 @@ Question 3:
 
 
 Question 4:
+- You can't do this. Synchronize in Java is used to control multiple Threads executing on a same object. 
+- When thread_1 is created and starts, it calls to run method. Then use run method to print "speed" in 10 times. 
+When thread_1 finished, thread_2 can access to run method to print value.
+Therefore, you can't use synchronize of Java to get that result.
+P/s: you can use Interleaving in Java
 
 
 

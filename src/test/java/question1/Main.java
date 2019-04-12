@@ -45,13 +45,5 @@ public class Main {
 	}
 
 	static void question3() {
-		Car car1 = new Car(100);
-		Car car2 = new Car(200);
-		
-		Thread car1Runs = new Thread(car1);
-		Thread car2Runs = new Thread(car2);
-		
-		car1Runs.start();
-		car2Runs.start();
 	}
 }
